@@ -1,0 +1,39 @@
+Name: Ben Vaughn	
+Date: 18Oct2019	
+Project: Peer review # 3
+Peer's repository: https://github.com/bgvaughn/05-Space-shooter.git
+
+
+
+Q):What is something you learned by reviewing your peer's project? 
+A):That Catlin is alot better at this than me and has a better hadle on this than I.
+
+ 
+
+Q):What is something you saw in your peer's project that you would like to apply to your own programming projects?
+A):More detail to the smaller things like less movement and not getting crzy with the code maybe.
+ 
+
+Q):What suggestions would you have for your peer to improve his/her code?
+A):None really I mean he already said he was going to make longer and keep working on it so I think that covers it.
+ 
+
+Q):What could have been clearer or better commented?
+A):Maybe the File name for the ships themselves could have been made more clearly or change some of the file names.
+ 
+
+Q):Was there anything in the code that was confusing to you? If so, what?
+A):The only part that is confusing is all of it still I really dont know what I'm looking at still and just change parts of the code I need to other than knowing one needs to define all things.
+ 
+
+Q):Does the repository contain an appropriate LICENSE?
+A):It does and the name and year have been changed.
+ 
+
+Q):What is something he/she could add to the README.md to make it more descriptive?
+A):Maybe a little more description of the code itself and its innerworkings but the game it self runs great.
+ 
+
+Q):Pay a compliment to your peer based on the quality of his/her code.
+A):It was Great and I mean it was a game with shooting enemies in space and beyond. Two thumbs up in my book!
+
